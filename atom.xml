@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
-    <title>Hexo</title>
-    <link href="http://example.com" />
+    <id>http://SawamuraSeinabi.github.io/project</id>
+    <title>焦虑</title>
+    <link href="http://SawamuraSeinabi.github.io/project" />
     <updated>2023-02-10T08:34:04.000Z</updated>
     <entry>
-        <id>http://example.com/2023/02/10/macau/</id>
+        <id>http://sawamuraseinabi.github.io/project/2023/02/10/macau/</id>
         <title>macau</title>
-        <link rel="alternate" href="http://example.com/2023/02/10/macau/"/>
+        <link rel="alternate" href="http://sawamuraseinabi.github.io/project/2023/02/10/macau/"/>
         <content type="html">&lt;h2 id=&#34;经验与教训&#34;&gt;&lt;a href=&#34;#经验与教训&#34; class=&#34;headerlink&#34; title=&#34;经验与教训&#34;&gt;&lt;/a&gt;经验与教训&lt;/h2&gt;&lt;h3 id=&#34;共性&#34;&gt;&lt;a href=&#34;#共性&#34; class=&#34;headerlink&#34; title=&#34;共性&#34;&gt;&lt;/a&gt;共性&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;机票和酒店都要提前定&lt;/li&gt;
 &lt;li&gt;需要考虑到航班取消的风险&lt;/li&gt;
@@ -27,9 +27,9 @@
         <updated>2023-02-10T08:34:04.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2023/02/10/hello-world/</id>
+        <id>http://sawamuraseinabi.github.io/project/2023/02/10/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="http://example.com/2023/02/10/hello-world/"/>
+        <link rel="alternate" href="http://sawamuraseinabi.github.io/project/2023/02/10/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;Quick-Start&#34;&gt;&lt;a href=&#34;#Quick-Start&#34; class=&#34;headerlink&#34; title=&#34;Quick Start&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&#34;Create-a-new-post&#34;&gt;&lt;a href=&#34;#Create-a-new-post&#34; class=&#34;headerlink&#34; title=&#34;Create a new post&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
